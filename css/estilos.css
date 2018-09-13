@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+}
+
+
+ .foto_perfil{
+   background-color: #ffe4db;
+   padding: 2% 0;
+   margin: auto;
+   width: 50%;
+
+ }
+
+.caja_foto {
+  border: 7px solid #ffff;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  margin-top: 3%;
+  margin: auto;
+}
+
+.caja_foto img, .caja_bandera img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.caja_bandera {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-radius: 50%;
+  border: 6px solid #c2d9da;
+  top: 38%;
+  left: 55%;
+}
+
+
+
+.texto_perfil {
+  border: 6px solid white;
+  text-align: center;
+  font-family: "Consolas" ;
+  color: #807e7f;
+  background-color: rgb(249, 245, 226);
+  width: 50%;
+  margin: auto;
+  padding-top: 2%;
+
+}
+
+.nombre {
+ font-size: 30px;
+ font-family: "Consolas" ;
+ color: #807e7f;
+}
+
+.subtitulo {
+  font-size: 20px;
+  font-family: "Courier New";
+  color: #949494;
+}
+
+.parrafo {
+  display: inline-block;
+  margin-top: 2%;
+ font-size: 15px;
+ width: 40%;
+ margin-bottom: 2%;
+
+}
+
+.redessociales {
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 2%;  
+}
+
+.icono {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  margin-right: 50px;
+}
+
+.icono img {
+  width: 100%;
+}
